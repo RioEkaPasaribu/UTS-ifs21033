@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="info_family_icon">Ikon Hewan</string>
+    <string name="info_family_name">Nama family</string>
+    <string name="info_family_desc">Deskrip</string>
+    <string name="info_family_descrip">Deskripsi</string>
+    <string name="info_family_period">Periode</string>
+    <string name="info_family_char">Karakteristik</string>
+    <string name="info_family_habitat">Habitat</string>
+    <string name="info_family_perilaku">Perilaku</string>
+    <string name="info_family_classi">Klasifikasi</string>
+
+    <string-array name="family_name">
+        <item>Sauropodomorpha</item>
+        <item>Theropoda</item>
+        <item>Ornithischia</item>
+        <item>Ceratopsidae</item>
+        <item>Hadrosauride</item>
+        <item>Ankylosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Sauropoda</item>
+    </string-array>
+    <string-array name="family_icon">
+        <item>@drawable/sauropodomorpha</item>
+        <item>@drawable/theropoda</item>
+        <item>@drawable/ornithischia</item>
+        <item>@drawable/ceratopsidae</item>
+        <item>@drawable/hadrosauride</item>
+        <item>@drawable/ankylosauridae</item>
+        <item>@drawable/stegosauridae</item>
+        <item>@drawable/sauropoda</item>
+    </string-array>
+    <string-array name="family_desc">
+        <item>Raksasa herbivora berleher-panjang.</item>
+        <item>Karnivora bipedal cepat.</item>
+        <item>Herbivora bercula berduri.</item>
+        <item>Tanduk, lempeng, herbivora.</item>
+        <item>Rahang-lebar, tegak, herbivora.</item>
+        <item>Kuat, dilindungi, herbivora, berat.</item>
+        <item>Punggung berlempeng, herbivora, duri.</item>
+        <item>Raksasa herbivora berleher-panjang.</item>
+    </string-array>
+    <string-array name="family_descrip">
+        <item>Sauropodomorpha adalah kelompok dinosaurus herbivora yang memiliki tubuh besar dengan leher dan ekor panjang. Mereka memiliki kaki yang kokoh dan kepala kecil dengan gigi-gigi yang digunakan untuk merobek tanaman.</item>
+        <item>Theropoda adalah kelompok dinosaurus karnivora yang memiliki tubuh ramping, kaki kuat, dan cakar yang tajam. Mereka dikenal sebagai pemburu yang efisien.</item>
+        <item>Ornithischia adalah kelompok dinosaurus herbivora yang memiliki gigi berbentuk seperti daun dan sering kali memiliki bermacam-macam perisai atau taji.</item>
+        <item>Ceratopsidae adalah keluarga dinosaurus herbivora yang memiliki ciri khas tanduk dan perisai pada tengkoraknya.</item>
+        <item>Hadrosauridae, juga dikenal sebagai "dinosaurus bebek", adalah keluarga dinosaurus herbivora yang memiliki rahang bawah yang panjang dan rata.</item>
+        <item>Ankylosauridae adalah keluarga dinosaurus herbivora yang dilengkapi dengan berbagai macam perisai dan tulang duri yang melindungi tubuhnya.</item>
+        <item>Stegosauridae adalah keluarga dinosaurus herbivora yang memiliki ciri khas punggung berderet tulang duri.</item>
+        <item>Sauropoda adalah keluarga dinosaurus herbivora yang memiliki tubuh besar, leher panjang, dan ekor yang berat.</item>
+    </string-array>
+    <string-array name="family_period">
+        <item>Kehidupan Sauropodomorpha berkisar dari Zaman Triassic hingga Zaman Jurassic (sekitar 230 juta hingga 145 juta tahun yang lalu).</item>
+        <item>Theropoda hidup dari Zaman Triassic hingga Zaman Kretaseus (sekitar 230 juta hingga 65 juta tahun yang lalu).</item>
+        <item>Ornithischia hidup dari Zaman Triassic hingga Zaman Kretaseus (sekitar 230 juta hingga 65 juta tahun yang lalu).</item>
+        <item>Ceratopsidae hidup pada Zaman Kapur (sekitar 85 juta hingga 65 juta tahun yang lalu).</item>
+        <item>Hadrosauridae hidup pada Zaman Kapur (sekitar 90 juta hingga 65 juta tahun yang lalu).</item>
+        <item>Ankylosauridae hidup pada Zaman Kapur (sekitar 125 juta hingga 65 juta tahun yang lalu).</item>
+        <item>Stegosauridae hidup pada Zaman Jurassic hingga Zaman Kapur Awal (sekitar 155 juta hingga 150 juta tahun yang lalu).</item>
+        <item>Sauropoda hidup pada Zaman Jurassic hingga Zaman Kapur (sekitar 155 juta hingga 65 juta tahun yang lalu).</item>
+    </string-array>
+    <string-array name="family_char">
+        <item>Tubuh besar, leher panjang, dan ekor yang berat. Kaki yang kokoh dan gigi-gigi yang cocok untuk mengunyah tanaman.</item>
+        <item>Tubuh ramping, kaki yang kuat, cakar tajam, dan gigi yang tajam untuk merobek daging.</item>
+        <item>Gigi berbentuk seperti daun, sering kali memiliki perisai atau taji, serta struktur tulang yang unik.</item>
+        <item>Tanduk dan perisai pada tengkorak, tubuh besar dengan kaki yang kuat.</item>
+        <item>Rahang bawah panjang dan rata, tubuh besar dengan kaki yang kuat.</item>
+        <item>Dilindungi oleh perisai dan tulang duri, tubuh rendah dan berat.</item>
+        <item>Punggung berderet tulang duri, tubuh besar dengan kaki yang kokoh.</item>
+        <item>Tubuh besar, leher panjang, dan ekor yang berat. Kaki yang kokoh dan gigi-gigi yang cocok untuk mengunyah tanaman.</item>
+    </string-array>
+    <string-array name="family_habitat">
+        <item>Sauropodomorpha mendiami berbagai habitat, mulai dari dataran rendah hingga hutan-hutan pedalaman.</item>
+        <item>Theropoda mendiami berbagai habitat, termasuk hutan, dataran, dan pegunungan.</item>
+        <item>Ornithischia mendiami berbagai habitat, mulai dari dataran rendah hingga hutan-hutan pedalaman.</item>
+        <item>Biasanya ditemukan di daerah dataran tinggi dan berhutan.</item>
+        <item>Hadrosauridae biasanya ditemukan di daerah rawa atau dataran rendah yang berawa-rawa.</item>
+        <item>Ankylosauridae cenderung hidup di daerah-daerah yang kering dan berbatu.</item>
+        <item>Stegosauridae biasanya ditemukan di daerah-daerah yang berhutan dan berbatu.</item>
+        <item>Sauropoda mendiami berbagai habitat, mulai dari dataran rendah hingga hutan-hutan pedalaman.</item>
+    </string-array>
+    <string-array name="family_perilaku">
+        <item>Diperkirakan mereka adalah hewan-hewan yang bergerombol dan memiliki perilaku sosial yang kuat.</item>
+        <item>Diperkirakan mereka adalah pemburu yang soliter atau hidup dalam kelompok kecil.</item>
+        <item>Perilaku Ornithischia bervariasi tergantung pada jenisnya, ada yang hidup berkelompok dan ada yang lebih soliter.</item>
+        <item>Mungkin hidup berkelompok dan memiliki perilaku sosial yang kompleks.</item>
+        <item>Mungkin hidup dalam kelompok besar dan memiliki perilaku sosial yang kompleks.</item>
+        <item>Mungkin bersifat soliter dan memiliki perlindungan yang kuat terhadap predator.</item>
+        <item>Mungkin bersifat soliter dan memiliki perlindungan yang kuat dari predator.</item>
+        <item>Diperkirakan mereka adalah hewan-hewan yang bergerombol dan memiliki perilaku sosial yang kuat.</item>
+    </string-array>
+    <string-array name="family_classi">
+        <item>Sauropodomorpha termasuk dalam ordo Dinosauria dan subordo Sauropodomorpha.</item>
+        <item>Theropoda termasuk dalam ordo Dinosauria dan subordo Theropoda.</item>
+        <item>Ornithischia termasuk dalam ordo Dinosauria dan infrakelas Ornithischia.</item>
+        <item>Ceratopsidae termasuk dalam infraorder Ceratopsia.</item>
+        <item>Hadrosauridae termasuk dalam infraorder Ornithopoda.</item>
+        <item>Ankylosauridae termasuk dalam infraorder Ankylosauria.</item>
+        <item>Stegosauridae termasuk dalam infraorder Stegosauria.</item>
+        <item>Sauropoda termasuk dalam infraorder Sauropodomorpha.</item>
+    </string-array>
+</resources>
