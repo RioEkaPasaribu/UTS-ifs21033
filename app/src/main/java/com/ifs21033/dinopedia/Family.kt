@@ -2,16 +2,20 @@ package com.ifs21033.dinopedia
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
+
 @Parcelize
 
 data class Family (
-        var name: String,
-        var icon: Int,
-        var desc: String,
-        var descrip: String,
-        var period: String,
-        var char: String,
-        var habitat: String,
-        var perilaku: String,
-        var classi: String,
-    ) : Parcelable
+        val name: String,
+        val icon: Int,
+        val desc: String,
+        val descrip: String,
+        val period: String,
+        val char: String,
+        val habitat: String,
+        val perilaku: String,
+        val classi: String,
+        val indexAwal: Int,
+        val indexAkhir: Int,
+) : Parcelable
+
