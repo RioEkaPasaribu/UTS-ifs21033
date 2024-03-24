@@ -85,7 +85,7 @@
             app:layout_constraintTop_toBottomOf="@+id/tvDetailChar" />
 
         <TextView
-            android:id="@+id/tvDetailPeriod"
+            android:id="@+id/tvDetailKel"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -108,7 +108,7 @@
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailPeriod" />
+            app:layout_constraintTop_toBottomOf="@+id/tvDetailKel" />
 
         <TextView
             android:id="@+id/tvDetailHabitat"
@@ -178,5 +178,20 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tvTitle5" />
+
+        <Button
+            android:id="@+id/button33"
+            android:layout_width="450dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="50dp"
+            android:text="Lihat Dino"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.512"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvDetailClassi"
+            app:layout_constraintVertical_bias="0.0" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

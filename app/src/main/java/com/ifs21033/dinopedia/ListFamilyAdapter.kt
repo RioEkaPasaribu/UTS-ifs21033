@@ -5,11 +5,10 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.ifs21033.dinopedia.databinding.ItemRowFamilyBinding
-class ListFruitAdapter(private val listFamily: ArrayList<Family>) :
-    RecyclerView.Adapter<ListFruitAdapter.ListViewHolder>() {
+class ListFamilyAdapter(private val listFamily: ArrayList<Family>) :
+    RecyclerView.Adapter<ListFamilyAdapter.ListViewHolder>() {
     private lateinit var onItemClickCallback: OnItemClickCallback
-    fun setOnItemClickCallback(onItemClickCallback:
-                               OnItemClickCallback) {
+    fun setOnItemClickCallback(onItemClickCallback:OnItemClickCallback) {
         this.onItemClickCallback = onItemClickCallback
     }
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType:
